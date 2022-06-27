@@ -4,6 +4,14 @@
 
 Data science course, HIT
 
+# Full Project is here:
+ 
+ This readme does not have the graphs and images of our project.
+ So we recommand to open this link and enjoy our full project:
+ https://nbviewer.org/github/yaellevi8/FinalProject_DataScience/blob/main/final_project_text_classification.ipynb
+ It might take a few minutes,  Enjoy!
+ 
+ 
 # Abstract
 ## Can you classify articles using their content?
 
@@ -14,13 +22,6 @@ Data science course, HIT
 <font size="4"> <p style="color:SlateBlue">This has been achieved by representing articles as vectors through the use of methods like TF-IDF Vectorizer.
 
 <font size="4"> <p style="color:SlateBlue"> After this, news articles can be classified using any suitable machine learning classification model, such as Logistic Regression, Multinomial Naive Bayes, Gaussian Naive Bayes and Linear SVC.
-
-# Full Project is here:
- 
- These readme does not have the graphs and images of our project.
- So we recommand to open this link and enjoy our full project:
- https://nbviewer.org/github/yaellevi8/FinalProject_DataScience/blob/main/final_project_text_classification.ipynb
- It might take a few minutes,  Enjoy!
 
 
 
