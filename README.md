@@ -9,7 +9,8 @@ Data science course, HIT
  This readme does not have the graphs and images of our project.
  So we recommand to open this link and enjoy our full project:
  https://nbviewer.org/github/yaellevi8/FinalProject_DataScience/blob/main/final_project_text_classification.ipynb
- It might take a few minutes,  Enjoy!
+ It might take a few minutes.
+ OR open the file called "final_project_text_classification.html" ,Enjoy!
  
  
 # Abstract
